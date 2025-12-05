@@ -133,5 +133,5 @@ st.markdown("""
 - **Nitin Pandey** (Roll No: 46)
 - **Ipshita Shrivastava** (Roll No: 37)
 - **Sarthak Chaudhary** (Roll No: 47)
-- ** Jayati Tripathi** (Roll No: 36)
+- **Jayati Tripathi** (Roll No: 36)
 """)
