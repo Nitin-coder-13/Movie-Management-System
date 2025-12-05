@@ -127,4 +127,11 @@ with tab3:
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by **Nitin Pandey** | JSS University Noida")
+st.markdown("""
+---
+### 👨‍💻 Developed By:
+- **Nitin Pandey** (Roll No: 46)
+- **Ipshita Shrivastava** (Roll No: 37)
+- **Sarthak Chaudhary** (Roll No: 47)
+- ** Jayati Tripathi** (Roll No: 36)
+""")
